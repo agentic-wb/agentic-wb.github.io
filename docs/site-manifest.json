@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.20.01",
+  "version": "0.20.02",
   "url": "https://agentic-wb.github.io/",
   "files": {
-    "index.html": "7a1c5cc8083c1866df2ca9fbe1786b2455d6e3a6f7513b8ac28a215a334b4e11",
-    "manual/index.html": "70f1f512571f487ddae798cbf7e83c47cabecf4bccde9d14a49b66e224d04b45",
+    "index.html": "aeb749fb85b572cb4c82e95f7a4e1eb9332cc268e0287cbe0eebac7bf2dbc29d",
+    "manual/index.html": "7912e0c277c82f456a70b59f1c84f84439672bfe2d940b2c25dbd00685700785",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
 }
